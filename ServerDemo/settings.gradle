@@ -1,0 +1,5 @@
+include ':mylibrary-debug'
+include ':mylibrary'
+include ':mylibrary2'
+include ':app'
+rootProject.name = "ServerDemo"
